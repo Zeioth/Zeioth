@@ -6,6 +6,8 @@ I code development tools for neovim on my free time nowadays
   <a href="https://github.com/Zeioth">
     <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=zeioth&show_icons=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff" alt="Zeioth's GitHub stats"/>
   </a>
+  
+  `Available for hiring: zeioth@hotmail.com`
 
   <!-- Profile Views -->
   <p align="left"> 
@@ -13,4 +15,3 @@ I code development tools for neovim on my free time nowadays
   </p>
 </div>
 
-`Available for hiring: zeioth@hotmail.com`
